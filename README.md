@@ -219,7 +219,7 @@ MagicMirror² 的社区正在不断的壮大中。我们的[论坛](https://foru
 
 ## 宣言
 
-持续的在写宣言。直到迈克尔回答了[一个问题]（https://github.com/MichMich/MagicMirror/issues/1174），并给了个很棒的总结：
+持续的在写宣言。直到迈克尔回答了[一个问题](https://github.com/MichMich/MagicMirror/issues/1174)，并给了个很棒的总结：
 
 > "... 我最终将这个项目作为树莓派爱好者的启动项目，事实上，对于大部分贡献者来说，MagicMirror 项目也是他们参与的第一个开源项目。 这就是为什么MagicMirror 项目在几个树莓派杂志中出现的原因。
 >
